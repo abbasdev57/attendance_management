@@ -31,3 +31,6 @@ This project is open‑source and free to use for educational or personal purpos
 
 ## 📧 Feedback & Support
 For issues or feature requests, please open an issue on the project repository (or contact the maintainer).
+
+## ScreenShot
+<img width="1136" height="650" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/03870e2d-fb2e-45ce-a72b-baec6fb4e748" />
